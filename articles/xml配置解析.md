@@ -10,4 +10,5 @@ xml依赖注入：
           value="com.hd123.hdpos4.mdata.service.client.client.Clients" />
       </map>
     </property>
+  </bean>
 ```
